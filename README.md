@@ -1,6 +1,7 @@
 # SignLanguageDetection
 
 This repository includes an image classification model which classifies different signs used in sign language. I've included the code to train the model(Main.py) and also the code for classifying your own image(classify.py).
+
 Download the dataset form here : https://drive.google.com/open?id=1O6GUgx2rBagG_VpyGpBhbyZc9uzajfde
 
 Required Dependencies : Python, Tensorflow, Keras
